@@ -9,6 +9,7 @@ Fullstack Developer
 * 🚀  I'm currently working on [nginx proxy templates](http://github.com/larsrickert/nginx-proxy)
 * 🧠  I'm learning communication of distributed systems
 
+<!--
 ### Skills
 
 <p align="left">
@@ -33,6 +34,7 @@ Fullstack Developer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/244824803003858944" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mawobi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mawobi_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19056360/mawobi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mawobi_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+-->
 
 ### Badges
 
